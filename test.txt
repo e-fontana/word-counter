@@ -1,0 +1,1 @@
+Este é um texto para testar a contagem de palavras. Ele inclui palavras de diferentes tamanhos, pontuação como vírgulas e pontos, números como 1, 2 e 3, e letras maiúsculas e minúsculas.
